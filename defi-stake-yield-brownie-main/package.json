@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.7.0",
+    "pyyaml": "^0.0.1",
+    "tar": "^6.1.11"
+  }
+}
